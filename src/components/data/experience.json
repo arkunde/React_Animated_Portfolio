@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": "Frontend Developer",
+      "organisation": "SOLable India",
+      "startDate": "Dec, 2023",
+      "endDate": "Present",
+      "location": "Pune",
+      "experiences": [
+        "Task Management System || Client - RBS"
+      ],
+      "imageSrc": "company/sol.jfif"
+    },
+    {
+      "id": 2,
+      "role": "Associate Software Engineer",
+      "organisation": "Capgemini",
+      "startDate": "May, 2022",
+      "endDate": "Nov, 2023",
+      "location": "Pune",
+      "experiences": [
+        "ShopEASY || Client - SNITCH"
+      ],
+      "imageSrc": "company/cap.png"
+    }
+    
+    
+  ]
