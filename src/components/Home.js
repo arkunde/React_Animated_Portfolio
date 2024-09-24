@@ -34,8 +34,7 @@ const Home = () => {
       <div className="laft"data-aos="fade-up-right"
       data-aos-duration="1000"
       >
-        <h1 ref={typedRef}>Lorem25 Lorem25npm start
-           Lorem25 Lorem25 Lorem25</h1>
+        <h1 ref={typedRef}></h1>
        
         <a href={pdf} 
         className="btn btn-outline-warning my-3">Download Resume</a>
